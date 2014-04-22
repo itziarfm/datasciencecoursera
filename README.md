@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Project The Data Scientist's Toolbox course
+Create a repo called datasciencecoursera
